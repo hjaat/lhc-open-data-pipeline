@@ -1,0 +1,4 @@
+analysis_type: higgs_search
+physics_cuts:
+  higgs_mass_window: [120, 130]
+  muon_pt_min: 20.0
