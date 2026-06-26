@@ -1,0 +1,28 @@
+# Data files (large)
+data/raw/*.root
+data/cache/*.parquet
+data/processed/*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Results
+results/
+htmlcov/
+
+# OS
+.DS_Store
